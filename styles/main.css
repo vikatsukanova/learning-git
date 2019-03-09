@@ -6,6 +6,11 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 body {
-	background: #eee;
+	background: lavender;
 	font-family: 'Open Sans', sans-serif;
+	color: mediumslateblue;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+	height: 100vh;
 }
